@@ -1,0 +1,28 @@
+# Ignore virtual environments
+venv/
+env/
+bin/
+lib/
+lib64/
+include/
+
+# Ignore logs
+logs/
+logs/scheduler/latest/
+
+# Ignore system-generated files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Ignore config files with sensitive information
+config/config.conf
+
+# Ignore temporary files
+*.log
+*.sqlite
+.DS_Store
+*.bak
+*.tmp

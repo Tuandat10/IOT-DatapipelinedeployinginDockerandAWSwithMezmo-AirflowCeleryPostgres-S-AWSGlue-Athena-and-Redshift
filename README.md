@@ -59,20 +59,25 @@ Before getting started, ensure you have the following:
 ```bash
 git clone git@github.com:Tuandat10/IOT-DatapipelinedeployinginDockerandAWSwithMezmo-AirflowCeleryPostgres-S-AWSGlue-Athena-and-Redshift.git
 cd IOT-DatapipelinedeployinginDockerandAWSwithMezmo-AirflowCeleryPostgres-S-AWSGlue-Athena-and-Redshift
-
+```
 ### 2. Create and Activate a Virtual Environment
 ```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 ### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 ### 4. Add Your Credentials
 ```bash
 config/config.conf
+```
 ### 5. Start Docker Containers
 ```bash
 docker-compose up -d
+```
 ### 6. Access Airflow UI
 ```bash
 http://localhost:8080
+```

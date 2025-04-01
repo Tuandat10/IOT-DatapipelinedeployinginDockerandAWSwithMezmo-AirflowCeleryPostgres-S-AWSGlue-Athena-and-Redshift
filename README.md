@@ -28,8 +28,8 @@ The pipeline is designed to:
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](IOT-DatapipelinedeployinginDockerandAWSwithMezmo-AirflowCeleryPostgres-S-AWSGlue-Athena-and-Redshift
-/architecture/diagram.png)
+![Architecture Diagram](architecture/diagram.png)
+
 
 **Components:**
 1. **Mezmo API** – Source of the data.

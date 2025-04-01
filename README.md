@@ -28,7 +28,8 @@ The pipeline is designed to:
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](path/to/your/image.png) <!-- Replace this with the actual path to your architecture image -->
+![Architecture Diagram](IOT-DatapipelinedeployinginDockerandAWSwithMezmo-AirflowCeleryPostgres-S-AWSGlue-Athena-and-Redshift
+/architecture/diagram.png)
 
 **Components:**
 1. **Mezmo API** – Source of the data.

@@ -1,0 +1,28 @@
+[api]
+access_key =
+url =
+[database]
+database_host = localhost
+database_name = airflow_reddit
+database_port = 5432
+database_username = postgres
+database_password = postgres
+
+[mysql]
+host = 
+port = 
+username = 
+password =
+database = 
+table_error = 
+table_log = 
+
+[aws]
+aws_access_key_id = 
+aws_secret_access_key=
+aws_region = 
+aws_bucket_name =
+
+[file_paths]
+input_path = /opt/airflow/data/input
+output_path = /opt/airflow/data/output
